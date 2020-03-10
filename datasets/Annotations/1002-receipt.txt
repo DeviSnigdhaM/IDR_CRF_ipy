@@ -1,0 +1,8 @@
+{
+    "OCR": "*xx x X X XXXX XXXXXXXX XXXX x x X X X X X X XXXX For a Chance to WIN See Back of Receipt Survey Code: 0279-4033-2211-1303 (Diganos en Espanol ) Taco Bell 017314 7230 Pendleton Pike Lawrence. IN 46226 (317)541-1897 9/1/2016 Order 378752 8:35:38 PM Cashier : DAJA G 1 Power Veg Bowl No Sour Cream 4.99 No Cheese 0.00 1 Rg Orange Crsh Fz 0.00 1.99 SubTotal 6.98 Tax 0.63 Total 7.61 Visa Acct : XXXXXXXX2276 7.61 Approval : 571883 DRIVE THRU $500 CASH GIVEAWAY ON BACK | $500 CASH GIVEAWAY ON BACK | Thank you for visiting! MOBILE ORDERING IS MERE DOWNLOAD THE APP $500 CASH GIVEAWAY ON BACK |",
+    "address": "7230 Pendleton Pike Lawrence. IN 46226",
+    "company": "Taco Bell",
+    "currency": "",
+    "date": "9/1/2016",
+    "total": "7.61"
+}

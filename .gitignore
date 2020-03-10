@@ -1,0 +1,18 @@
+# exclude everything
+datasets/CleanOCR/*
+datasets/Annotations/*
+
+# gitkeep commit only 3 files 
+!datasets/CleanOCR/.gitkeep
+!datasets/CleanOCR/1000-receipt.txt
+!datasets/CleanOCR/1001-receipt.txt
+!datasets/CleanOCR/1002-receipt.txt
+
+# gitkeep commit only 3 files 
+!datasets/Annotations/.gitkeep 
+!datasets/Annotations/1000-receipt.txt
+!datasets/Annotations/1001-receipt.txt
+!datasets/Annotations/1002-receipt.txt
+
+# mac files
+.DS_Store
