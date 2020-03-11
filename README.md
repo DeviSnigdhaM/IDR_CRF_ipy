@@ -1,24 +1,35 @@
-# Python environment with a requirements.txt
+# An Image Is Worth a Thousand Words
+### Build Your First Intelligent Document Recognizer
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
+## To view the read-only notebook
+Just select index.ipynb from the Code files
+Github has an inbuilt renderer for ipython notebooks
 
-A Binder-compatible repo with a `requirements.txt` file.
+## To Launch the notebook locally
 
-Access this Binder at the following URL 
+### Dependencies
 
-http://mybinder.org/v2/gh/binder-examples/requirements/master
+The `requirements.txt` file has a list of all Python libraries that are needed for this notebook
 
-## Notes
-The `requirements.txt` file should list all Python libraries that your notebooks
-depend on, and they will be installed using:
+To install, run the command:
 
 ```
 pip install -r requirements.txt
 ```
 
-The base Binder image contains no extra dependencies, so be as
-explicit as possible in defining the packages that you need. This includes
-specifying explict versions wherever possible.
+### Launch the Jupyter Notebook
 
-In this example we include the library `seaborn` which will be installed in
-the environment, and our notebook uses it to plot a figure.
+Install Jupyter Notebook from https://jupyter.org/install
+
+```
+jupyter notebook
+```
+
+Open on URL: http://localhost:8888/
+
+Select index.ipynb
+
+## To Access the notebook on a server
+
+This section is coming soon. We will be hosting the notebook on a cloud server for the workshop. Attendees will be given a live URL to access and work on, without having to do any manual installations as above.
+
