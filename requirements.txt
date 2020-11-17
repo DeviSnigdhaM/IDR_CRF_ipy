@@ -1,3 +1,6 @@
 pandas
 sklearn_crfsuite
 pytesseract
+scikit-learn
+spicy
+matplotlib
