@@ -39,7 +39,7 @@ Receipt: 1,Bon,MR,B-mer
 ,Authorization,NN,O
 ,613,NN,O
 ,VISA,NN,O
-,$8.13,NN,O
+,$8.13,AM,B-amt
 ,EKKKKKKKKKKD,NN,O
 ,4D,NN,O
 ,,NN,O
