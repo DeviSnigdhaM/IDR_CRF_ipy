@@ -1,0 +1,6 @@
+{
+    "OCR": "Bon Appetit Oracle Redwood Cafe 300  ES rm CHK 2042 6/14/2018 | 1.05 PM 1! & g Salad, Large Ceasar 5 09 1 Side, Chicken 2.39     eeeERKHK( 03  VISA:087861  Credit Authorization 6,13 VISA $8.13 EKKKKKKKKKKD 4D  Subtota | $7.48 Tax $0.65 Payment $8.13  Change Due $O.00  Seeerterene Check Closed ----------- 6/14/2018 1:05 PM",
+    "company": "Bon Appetit",
+    "date": "6/14/2018",
+    "total": "8.13"
+}
