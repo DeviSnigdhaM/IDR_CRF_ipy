@@ -1,0 +1,8 @@
+{
+    "OCR": "SASKA'S 3768 Mission Blvd San Diego CA 92109 (858) 488-7311 Server: Sue Table 103/1 08/15/2017 5:51 PM Guests: 2 10005 Reprint #: 2 Draft Blackhouse \"Cowboy\" 16oz Ribeye 7.00 45.00 Make It Blue 5.00 Add Lobster CK Manhattan (2 (5.00) 21.00 Whistle Pig Rye 10yr (2 @20.00) 10.00 40.00 (2) BMOD Up \"Duke\" 16oz Top Sirloin 34.00 Make It Blue 5.00 Subtotal 167.00 Tax 12.94 Total 179.94 Balance Due 179 .94 SUGGESTED TIP BEFORE DISCOUNTS 18% =$30.06 20% =$33.40 22% =$36.74",
+    "address": "3768 Mission Blvd San Diego CA 92109",
+    "company": "SASKA'S",
+    "currency": "$",
+    "date": "08/15/2017",
+    "total": "179.94"
+}

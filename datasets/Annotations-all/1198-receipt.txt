@@ -1,0 +1,8 @@
+{
+    "OCR": "STK Miami Beach Collins Ave Miami , FL 33140 100 SERVER 103/1 1959 GST 25AUG 17 8:03PM Dining 1 Avion Silver RX 16. 00 margarita rx 1 1 Staub 0.00 1 Avion Silver RX 16,00 margarita rx DA Delmonico 14 62.00 Truffle Fries 13.00 Mac/ Cheese 12.00 Asparagus BAKED COOKIE 13.00 SUBTOTAL 10.00 142.00 Add-On Tax Food Add - On Tax Bev 7. 70 2.24 Resort Tax TOTAL DUE $ 154 . 78 2.84 For your convenience suggested gratuities are shown below 18% gratuity $25.56 20% gratuity $28. 40 22% gratuity $31.24",
+    "address": "Collins Ave Miami , FL 33140",
+    "company": "STK Miami Beach",
+    "currency": "$",
+    "date": "25AUG 17",
+    "total": "154 . 78"
+}

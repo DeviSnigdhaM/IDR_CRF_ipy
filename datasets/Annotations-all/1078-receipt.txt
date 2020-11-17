@@ -1,0 +1,8 @@
+{
+    "OCR": "TTT Tay Ho Oakland Elegant Vietnamese Cuisine Follow us on Instagram & Facebook @tayhooak land #tayhooak land Please help us going Green & Save our resources ! Please ask for Credit Card Receipt if you'd like one printed for your record. . . Order# 142750 Table: Table - 7 Date: 2/19/19, 1:20 PM #19-D. B.B.V. - Special Combo Pho $12.95 Subtotal: $12.95 Total Tax: $1.23 Total : $14. 18 Order Balance due: $14. 18 Suggested Gratuity 18.00% of sale: Tip Total 20 0% of sale: $2.33 = $2.59 = $16.51 $16.77",
+    "address": "",
+    "company": "Tay Ho Oakland Elegant Vietnamese Cuisine",
+    "currency": "$",
+    "date": "2/19/19",
+    "total": "14. 18"
+}

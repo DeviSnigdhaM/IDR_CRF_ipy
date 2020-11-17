@@ -1,0 +1,8 @@
+{
+    "OCR": "It pays to DISCOVER whereva you go Araxi Burger Aventura 17861 BISCAYNE BLVD Aventura, FL 33160 Server: Valerie P Check #33 03/17/19 5:39 PM Table 12 2 Vanilla Bean $12.00 Classic Burger 40z $8.00 Route 66 Burger 8oz $14.00 10% (10.00%) - $3.40 Subtotal $30.60 Service Charge (18.00%) $6 . 12 Tax $2. 14 Total $38.86 Powered by Toast",
+    "address": "17861 BISCAYNE BLVD Aventura, FL 33160",
+    "company": "Araxi Burger Aventura",
+    "currency": "$",
+    "date": "03/17/19",
+    "total": "38.86"
+}

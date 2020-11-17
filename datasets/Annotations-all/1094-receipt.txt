@@ -1,0 +1,8 @@
+{
+    "OCR": "POKEATERY Pokeatery CV 18911 Lake Chabot December 29 2018 Road 2:01 PM Castro Valley, CA Ramelle 94546 Receipt: 3zCW Authorization: 060071 CHASE VISA AID AO 00 00 00 03 10 10 Poke Box $13.50 Regular, Avocado ($1.00) Subtotal $13.50 Castro Valley Sales Tax $1.25 Tip $1.48 Total $16.23 Visa 0642 (Chip) $16.23",
+    "address": "18911 Lake Chabot",
+    "company": "Pokeatery CV",
+    "currency": "$",
+    "date": "December 29 2018",
+    "total": "16.23"
+}

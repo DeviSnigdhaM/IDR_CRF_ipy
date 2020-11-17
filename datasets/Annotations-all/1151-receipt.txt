@@ -1,0 +1,8 @@
+{
+    "OCR": "Collector's Choice Restaurant 215 Cypress Ave Snohomish WA 98290 360-568-1277 April 10 2019 12:00pm Ticket : 1904100085 Server : Cheryl V Seat : Dining: 18:1 Item Price 1 Twisted Rueben 11. 69T Subtotal 11. 69 1 Service Fee (-6%) - -0. 70T Sales Tax (9. 2%) 1. 14 Total $13. 53 Tip Helper : 15%-2. 03 18%-2. 44 20%=2. 71 Starting January 25th, 2019 CCR includes a 6% service charge on each guest check. This service charge is fully retained by the company, not the servers. It will be used 100% to provide fair wages for our kitchen staff with equitable pay and benefits to our entire team. We are required by law to collect tax on the service charge. Please Continue Tipping your Servers. Thank you for your continuing support. Receive a 3% Discount for paying with cash.",
+    "address": "215 Cypress Ave Snohomish WA 98290 360-568-1277",
+    "company": "Collector's Choice Restaurant",
+    "currency": "$",
+    "date": "April 10 2019",
+    "total": "13. 53"
+}

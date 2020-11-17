@@ -1,0 +1,8 @@
+{
+    "OCR": "Primo Family Restaurant 5/3/19 8:14 PM DARWIN D. Table: 10 Check: 137 3 Prem Glass (7.50 $22.50 1 MED Veggie @27.00 $27.00 Sub-Total $49.50 Sales Tax $2.97 Total $52.47 Payments MASTERCARD *##6170 $52.47 Amount Due $0,00 Charge Receipt Server: DARWIN D. Table No: 10",
+    "address": "",
+    "company": "Primo Family Restaurant",
+    "currency": "$",
+    "date": "5/3/19",
+    "total": "52.47"
+}

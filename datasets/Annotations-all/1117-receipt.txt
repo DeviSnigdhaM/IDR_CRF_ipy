@@ -1,0 +1,8 @@
+{
+    "OCR": "KOBE JAPANESE STEAK 69838 HIGHWAY 111 RANCHO MIRAGE, CA. 92270-2837 760-324-1717 Server ID: 1 Sale XXXXXXXXXXxxxx4757 VISA Entry Method: Chip Amount: $ 158.07 Tip: 1500 Total: 13 07 82/22/19 Inv #: 080080061 20:31:12 Apprud: Online Appr Code: B39801 VISA DEBIT AID: A0000000031010 TVR: 80 80 00 80 00 TSI: 68 00 Customer Copy",
+    "address": "69838 HIGHWAY 111 RANCHO MIRAGE, CA. 92270-2837",
+    "company": "KOBE JAPANESE STEAK",
+    "currency": "$",
+    "date": "82/22/19",
+    "total": "158.07"
+}

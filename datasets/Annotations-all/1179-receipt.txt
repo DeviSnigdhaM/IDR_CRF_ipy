@@ -1,0 +1,8 @@
+{
+    "OCR": "Server: FourthStreetMill Receip 2124 BONITA AVENUE LA VERNE, CA 91750 (909) 596-1564 Subto Dine In Sales Tota Server: Chris D. Sep 29 2018 Receipt: 4J33 5:38 PM Table: P5 Am Item(s) Tip To Lamb Burger $13.00 - NO Goat Cheese NO Bread Medium Sauce On Side Kids Grilled Cheese $5.00 Kids Fries $3.00 Sweet Potato Fries $8.00 Kids Cheeseburger $7.00 - NO Ketchup No bun Sub sourdough Beef Burger $10.00 - Medium Rare Sides $3.50 - Bacon (2) Slices Subtotal $49.50 Sales Tax (Incl. 9.5%) $4.70 Total $54.20",
+    "address": "2124 BONITA AVENUE LA VERNE, CA 91750 (909) 596-1564",
+    "company": "FourthStreetMill",
+    "currency": "$",
+    "date": "Sep 29 2018",
+    "total": "54.20"
+}

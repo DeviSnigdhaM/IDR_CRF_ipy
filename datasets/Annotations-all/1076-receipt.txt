@@ -1,0 +1,8 @@
+{
+    "OCR": "Paradise Restaurant 889 W. 190th Street Los Angeles, CA 90248 ph 310-324-4800 Our Family Thanks You Travel Safely www. paradisedine . com TABLE: Kae, #31 - 1 Guest Your Server was Kael 7/21/2018 10:03:14 PM - ID #: 0375509 Subtotal $20.00 Total Taxes $2. 18 Automatic Gratuity $3.60 Grand Total Credit Purchase $25.78",
+    "address": "889 W. 190th Street Los Angeles, CA 90248",
+    "company": "Paradise Restaurant",
+    "currency": "$",
+    "date": "7/21/2018",
+    "total": "25.78"
+}

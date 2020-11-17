@@ -1,0 +1,8 @@
+{
+    "OCR": "INSE CAFE PARISIEN LARCHMONT LLC 242 N LARCHMONT BLVD LOS ANGELES, CA 90004 (310) 815-8222 Dine In Server: Kimberly L. Jan 24 2019 Receipt: YWG5 10:29 AM Table: 36 Item(s) CROISSANT AUX RAISINS $4.00 Cappucino $4.75 Subtotal $8.75 Sales Tax (9.5%) $0.83 Total $9.58 Customer Copy",
+    "address": "242 N LARCHMONT BLVD LOS ANGELES, CA 90004",
+    "company": "CAFE PARISIEN LARCHMONT LLC",
+    "currency": "$",
+    "date": "Jan 24 2019",
+    "total": "9.58"
+}

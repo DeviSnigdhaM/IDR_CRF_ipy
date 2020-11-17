@@ -1,0 +1,8 @@
+{
+    "OCR": "GRAND LUX CAFE Roosevelt Field 0480 TABLE 101 #Party 3 STEPHEN R SvrCk: 4 16:43 04/25/15 Coffee Chicken Parmesan 2.95 Prime Top Sirloin 17.95 The Bacon-Cheese Burger 25.95 Coffee 13.95 2.95 Sub Total: 63.75 Tax : 5.50 Sub Total: 69.25 04/25 17:42 TOTAL : 69 .25 Gratuity Not Included Suggested Gratuity: 20% 13.85 18% 12.47 15% 10.39 It's been a pleasure to serve you. Thank you for dining with us",
+    "address": "Roosevelt Field",
+    "company": "GRAND LUX CAFE",
+    "currency": "",
+    "date": "04/25/15",
+    "total": "69.25"
+}

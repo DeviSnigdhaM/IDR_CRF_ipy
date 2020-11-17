@@ -1,0 +1,8 @@
+{
+    "OCR": "730 Tavern Kitchen & Patio 730tavern. com 730 Mass Ave 17 Cambridge, MA 02139-3308 162 617-868-8800 09/23/2017 ver : Megan 45757 9:40 PM Je 3/1 wests: 2 30062 Reprint #: 1 Manhattan (3 @16.00) 48.00 (3)Makers Mark Grey Goose (3 @9.50) Rocks (3 @1.00) 28.50 $85 3.00 Subtotal Tax 79.50 5.57 Total 85.07 Balance Due 85.07 SUGGESTED GRATUITY PRIOR TO DISCOUNT 22% 0 17, 49 20% @ 15.80",
+    "address": "730 Mass Ave 17 Cambridge, MA 02139-3308",
+    "company": "Tavern Kitchen & Patio",
+    "currency": "",
+    "date": "09/23/2017",
+    "total": "85.07"
+}

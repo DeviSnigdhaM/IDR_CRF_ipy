@@ -1,0 +1,8 @@
+{
+    "OCR": "PAPPADEAUX SEAFOOD KITCHEN Pappadeaux Seafood Kitchen (612) 7800 Airport Blvd (HOU) Houston, TX 77061 (713) 847-7622 0089 Table 7 #Party 2 DANIEL 0 SvrCk : 7 12:46 01/07/17 DINE IN 1 Side Craw Etouffee 4oz 10.98 1 Pan Seared Tilapia 21.99 2 Tea 5.98 Sub Total : 38.95 Tax : 3.21 Sub Total: 42 . 16 01/07 13:29 TOTAL : 42 . 16 Thank you for dining at Pappadeaux! Tip Not Included 15% 6.32 18% 7.59 20% 8.43",
+    "address": "7800 Airport Blvd (HOU) Houston, TX 77061 (713) 847-7622",
+    "company": "PAPPADEAUX SEAFOOD KITCHEN",
+    "currency": "",
+    "date": "01/07/17",
+    "total": "42 . 16"
+}

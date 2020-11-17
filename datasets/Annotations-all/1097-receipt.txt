@@ -1,0 +1,8 @@
+{
+    "OCR": "eBuona EL POLLO LOCO RESTAURANT 5451 STORE 5451 7519 S. ATLANTIC AVE. CUDAHY, CA 90201 323-560-0758 257 LIDIA H hk 1924 Jun28'17 05:36P Gst 0 Drive Thru 1 Burrito Cmb Chk Ranchero Bur 8.28 ADD Avo Slcs 18-1 HAS Ind Chips ww TItu SM DRINK Coke 2 Bur-BRC @ 1.89 Cash Wollots 3,78 13.25 Food efelgmos Tax 12.06 Payment 1.06 Change Due 13. 12 257 Check Closed 0. 13 - -- Jun28'17 05:38PM- - - - -.-\". Your Order: 1924",
+    "address": "7519 S. ATLANTIC AVE. CUDAHY, CA 90201",
+    "company": "EL POLLO LOCO RESTAURANT ",
+    "currency": "",
+    "date": "Jun28'17",
+    "total": "13. 12"
+}

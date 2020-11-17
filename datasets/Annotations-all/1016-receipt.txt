@@ -1,0 +1,8 @@
+{
+    "OCR": "Chef Wang 1902 Jericho Turnpike New Hyde Park NY 11040 Tel : 516.354.2858 Fax : 516.776.0587 [ A5 ] Dine In # 1022 Server: lily 02/02/19 2 Person 02:14 PM - 03:03 PM Scallion Pancake $5.25 Little Juicy Pork Buns $9.95 Beef w Bak Choy (L) $8.75 Hunan Beef (L) $8.75 SubTotal $32,70 Sales Tax $2.82 Total $35.52 Thank You Have A Nice Day",
+    "address": "1902 Jericho Turnpike New Hyde Park NY 11040",
+    "company": "Chef Wang",
+    "currency": "$",
+    "date": "02/02/19",
+    "total": "35.52"
+}

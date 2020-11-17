@@ -1,0 +1,8 @@
+{
+    "OCR": "Blue Bear Tavern 216 S 11th Street (215)922-3427 www. bluebeartavern.com Check #: 00225 Date: 01/13/2012 10:16 PM Check # 00725 Station: Pos3 Server : Andrew Guests: 1 1 Crimini 1 Salami 3.00 0lives 3.00 1 Lrg Clams\\ mussels 3.00 4 Reg Ketel One 14.00 1 House Cab 52.00 6.00 Sub Total 81.00 Philly Liquor Tax 0.60 Philly Pa Sales Tax TOTAL 1.84 83.44",
+    "address": "216 S 11th Street (215)922-3427",
+    "company": "Blue Bear Tavern",
+    "currency": "",
+    "date": "01/13/2012",
+    "total": "83.44"
+}
