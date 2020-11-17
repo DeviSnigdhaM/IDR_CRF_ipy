@@ -1,0 +1,8 @@
+{
+    "OCR": "Golden Panda Buffet 14428 Ramona Blvd. #70 Baldwin Park, CA 91706 Tel: 626-337-5666 Station: 1 6/02/2018 04:18:31 PM Cashier: 010 Invoice #68554 T# hot food Adult Dinner 23 . 98 Soda N N 3. 38 Subtotal 27.36 Tax 2 . 60 Grand Total 29.96 Amount Tendered 29.96 Debit Card sale 29.96 Thank you very much. Order # 152",
+    "address": "14428 Ramona Blvd. #70 Baldwin Park, CA 91706",
+    "company": "Golden Panda Buffet",
+    "currency": "",
+    "date": "6/02/2018",
+    "total": "29.96"
+}

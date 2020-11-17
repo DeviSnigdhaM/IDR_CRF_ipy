@@ -1,0 +1,8 @@
+{
+    "OCR": "Sonic America's Drive-In 518 Robertson Boulevard Walterboro, SC 29488 843-782-4565 Stall #15 96 JORDEN St1 15/1 Chk 699 Jun22 18 07:59PM Tray : 8 Stall * Ind | 4342 1 Combo 6.79 Chz Burger Add Mayo Add Must Add Ket Med Fries Med Dr Pepper 1 Prem Dog Combo 5.09 NY Dog Med Tots Med Coffee Tax 1. 19 Total Due: 13.07 Subtotal : 11.68 Tax 1. 19 08:00PM Total Due: 13.07 You Saved... 1.86 How was your visit?",
+    "address": "518 Robertson Boulevard Walterboro, SC 29488 843-782-4565",
+    "company": "Sonic America's Drive-In",
+    "currency": "",
+    "date": "Jun22 18",
+    "total": "13.07"
+}

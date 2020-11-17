@@ -1,0 +1,8 @@
+{
+    "OCR": "EL CHICO MEXICAN RESTAURANT JBR TEL : 04-7059680 1050 Home Del To1 1014/1 Chk 1958 Gst 0 Nov 12 16 05:41PM Home Delivry 1 Ts Guac 1 Grande Chicken 48 ,00 Buritto 64.00 1 Delivery Charge 5.00 Amount Due 117 .00 ***Thank You For Coming*** Home Delivery No:600561112",
+    "address": "1050 Home Del",
+    "company": "EL CHICO MEXICAN RESTAURANT",
+    "currency": "",
+    "date": "Nov 12 16",
+    "total": "117 .00"
+}

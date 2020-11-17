@@ -1,0 +1,8 @@
+{
+    "OCR": "River village FAMILY RESTAURANT River Village Family Restaurant 22825 Huron River Dr Rockwood, MI 48173 (734) 236-4033 Server: Jasmine G Check #7 08/12/19 8:02 AM Table 23 Apple French Toast Coffee $7.99 $2.29 Subtotal Tax $10.28 $0.62 Total $10.90 2.99 early bird breakfast special Monday- Friday 7am - 8am River village kayaking now open Sunday-Thursday 7:00am-8:00pm Friday/Saturday 7:00am-9:00pm Pay at the cash register Thank you! !",
+    "address": "22825 Huron River Dr Rockwood, MI 48173",
+    "company": "River village FAMILY RESTAURANT",
+    "currency": "$",
+    "date": "08/12/19",
+    "total": "10.90"
+}

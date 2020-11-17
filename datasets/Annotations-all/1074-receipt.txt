@@ -1,0 +1,8 @@
+{
+    "OCR": "## 0270 Lin Buffet 2:988 N. Expressway Brownsville, TX Phone (956) 544-6600 Date: Feb 24 2019 Time: 03:22PM Server: Kenya Judith # Guest : 1 Bill: 0270 2 N Weekend Buffet 27 . 18 Drink 3.98 Subtotal 31. 16 Sales Tax 2.57 Total 0 33 . 73 Visa 33.73 Beverages 3.98 Food 27 . 18 Open Time : Feb 24 2019 03:22PM",
+    "address": "2:988 N. Expressway Brownsville, TX",
+    "company": "Lin Buffet",
+    "currency": "",
+    "date": "Feb 24 2019",
+    "total": "33.73"
+}

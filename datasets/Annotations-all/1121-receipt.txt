@@ -1,0 +1,8 @@
+{
+    "OCR": "HEART of PORTUGAL Heart of Portugal Restaurant 241 Mineola Blvd Mineola, NY 11501 516-742-9797 Server: oscar d 09/10/17 3:28 PM Check #11 Table D2 Traditional Pork & Clams $20.95 1 Osso Buco Sp $28.95 House Wines Half Pitcher $16.00 Subtotal Tax $65.90 Total $5.68 $71.58 Thanks for Dining with Us! See you soon! ! !",
+    "address": "241 Mineola Blvd Mineola, NY 11501",
+    "company": "HEART of PORTUGAL Heart of Portugal Restaurant",
+    "currency": "$",
+    "date": "09/10/17",
+    "total": "71.58"
+}

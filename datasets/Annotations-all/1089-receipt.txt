@@ -1,0 +1,8 @@
+{
+    "OCR": "Firepoint Grill 3739 West Chester Pike Newtown Square. PA 19013 484-428-3093 Server : Will 12/07/2016 53/1 6:53 PM Guests: 2 #90024 Reprint #: 1 Order Type: Send Area: Dining Makers Mark (2 @11. 50) 23. 00 As Old Fashioned Side Caesar Chicken & Rib Combo 6. 00 Woodford Reserve (2 @12. 00) 29. 00 24. 00 On the Rocks Frisee Salad 10. 00 Poached Shrimp Cocktail NY Stip 8oz 17. 50 28. 00 Complete Subtotal 137. 50 Subtotal 137. 50 Total Tax 5. 43 Total 142. 93 Balance Due 142. 93 THANK YOU Visit us Online at www. FirepointGrill. com",
+    "address": "3739 West Chester Pike Newtown Square. PA 19013",
+    "company": "Firepoint Grill",
+    "currency": "",
+    "date": "12/07/2016",
+    "total": "142. 93"
+}

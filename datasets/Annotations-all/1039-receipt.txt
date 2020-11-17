@@ -1,0 +1,8 @@
+{
+    "OCR": "CARL'S JR 1100375 (916) 962-3415 8105 MADISON AVE FAIR OAKS, CA Register 1 Order is Tendered 12/19/2016 7:42:42 PM DriveThru #3100 / 3625 2 Santa Fe Ckn $11.38 American Ch E Green Chile $0. 70 S Santa Fe Sce Sub Total $12.08 Discounts $0.00 Tax $0.97 Total $13.05 Credit Change $13.05 $0.00",
+    "address": "8105 MADISON AVE FAIR OAKS, CA",
+    "company": "CARL'S JR",
+    "currency": "$",
+    "date": "12/19/2016",
+    "total": "13.05"
+}

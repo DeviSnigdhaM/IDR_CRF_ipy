@@ -1,0 +1,8 @@
+{
+    "OCR": "IKEA IKEA FOOD IKEA MILTON KEYNES 185 VAT : GB 527773320 Address4 Qty Name Price Total E Meatbal Is 10 3.80 Fish & Chips Adult 3.80 4.95 4.95 Petit Pain - white 0. 50 0.50 Wine rose 2.80 2.80 Wine red 2.80 2.80 Net SubTotal : 12.37 Tax: 20%VAT 2. 48 Total to Pay: 14.85 Received: VISA 14.85 Visa Credit Start: 06/04/2016 11:21 Cashtor: 1890",
+    "address": "IKEA MILTON KEYNES 185",
+    "company": "IKEA IKEA FOOD ",
+    "currency": "",
+    "date": "06/04/2016",
+    "total": "14.85"
+}

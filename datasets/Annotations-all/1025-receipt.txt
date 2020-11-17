@@ -1,0 +1,9 @@
+{
+    "OCR": "Mcdonald's Restaurant #3100 1617 N EASTERN AVENUE LOS ANGELES, CA E D=3 1053 TEL.# 23 234 730 KS# 2 212/7/2013 03:08 PM Side 1 Order 97 1 Dol Qtr Cheese 5.99 Special Request ADD Leaf Lett. C: 0.25 ADD Mac Sauce 0.40 Subtotal 6.64 Tax 0.63 Take-Out Total 7.27 Cash less 7.27 Change 0.00 MER# 4:39206 CARD ISSUER BOW DEBIT CARD AE week TRANSACTION AMDL IT 7.27 CHIP READ AUTHORIZATION CODE - 31:541 SEQ# 0:39988 AID: ADO0000004 2 . McDonald's now avai al: 3 or JberEATS",
+    "address": "1617 N EASTERN AVENUE LOS ANGELES, CA E D=3 1053",
+    "company": "Mcdonald's Restaurant",
+    "currency": "",
+    "date": "212/7/2013",
+    "total": "7.27",
+    "notes": "Date has incorrect OCR text"
+}

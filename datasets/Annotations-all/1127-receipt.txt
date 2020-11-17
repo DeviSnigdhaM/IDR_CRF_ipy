@@ -1,0 +1,8 @@
+{
+    "OCR": "seerlong enilno ixen 10Y 910m 10 0S2 to PIZZA HUT DINE IN ONAHO OF Ticket #00100 of of JONAHD 6 to Item Count : 3 TA390 ENTERED BY TABLE #GUEST MAURICE 56 2 030835 10/25/2018 8:30 PM .mos. furiassiglist.www liziv. sassin 293MHIV allolV 3519 SEE BACK OF RECEIPT FOR AN OFFER 01 1 $FiveLU slee ol omods ,lofages no son 12. 49 Hand toss Cheese KEEB JHIS BECEIbI YOUTD Pepperoni 02 1 $FiveLU oflaoup onisent Unit .vanally 7.69 Bone OUT Gar lcParm 03 1 Pitcher 13.50 DosEquis COUPON (F6) 10. 18 Subtotal 23.50 Service Fee 0.94 SALES TAX 2.32 Balance Due 26.76 SEE BACK OF RECEIPT FOR AN OFFER",
+    "address": "",
+    "company": "PIZZA HUT",
+    "currency": "",
+    "date": "10/25/2018",
+    "total": "26.76"
+}

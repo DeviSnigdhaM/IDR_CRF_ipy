@@ -1,0 +1,8 @@
+{
+    "OCR": "FIVE GUYS STORE # CA-1661 2640 Reynolds Ranch PKwy - Ste 140 Lodi, CA 95240 Phone (209) 333-9750 5/25/2017 1:00: 17 PM Order Id: AAAP2F9WAEBP 47 - FIVE GUYS Employee: Robert C 47 1 Little Hamburger $5. 19 Lettuce $0.00 Pickles $0.00 Tomatoes $0.00 Grilled Onions $0.00 Grilled Mushrooms $0.00 Mustard $0.00 Ketchup $0.00 Jalapeno Peppers $0.00 2 Large Fry (85. 79) $11.58 1 Large Soda $2.9 1 Cheeseburger $7.8 Mayo $0.00 Lettuce $0.00 Pickles $0.00 BBQ Sauce $0.00 Regular Soda $2. 70 Sub Total $30.31 Sales Tax $2.35 Order Total $32.66 MasterCard $32.66 Card#: *$4**414**$2931 Authorization: 728767 --> Order Closed <-- Don't throw away your receipt! ! ! Help Five Guys and you could win! Log online to www. fiveguys.com/survey and fill out a brief survey! 10 lucky people will win a Five Guys Gift Card each month worth $25 each! No purchase necessary Sweepstakes ends 12/31/2017. Must be at least 18 years old and submit survey within 30 days of the receipt date to enter. Please visit Www. fiveguys. com/survey for Official Rules and how to enter without making a purchase or completing a survey. Void where prohibited.",
+    "address": "2640 Reynolds Ranch PKwy - Ste 140 Lodi, CA 95240",
+    "company": "FIVE GUYS",
+    "currency": "$",
+    "date": "5/25/2017",
+    "total": "32.66"
+}

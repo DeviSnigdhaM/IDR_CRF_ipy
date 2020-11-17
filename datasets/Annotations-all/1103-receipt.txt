@@ -1,0 +1,8 @@
+{
+    "OCR": "Crisfield Seafood Restaurant 8012 Georgia Ave. Silver Spring, MD20910 (301) 589-1306 DENIS ORDER# 134 Carryout # 8 12/29/2017 8:38: 16 PM GUESTS TAKE OUT Dinner Platters 1 Crisfield Special Platter 27.00 * * * * COOK MEDIUM * * * * Extras 1 Pint Bisque 11.50 SUBTOTAL : 38.50 Carry Out 1.93 TAX: 2.31 Register T#0000144 TOTAL : $42. 74 Last Serviced 12/29/2017 8:41:08 PM Thank You!",
+    "address": " 8012 Georgia Ave. Silver Spring, MD20910",
+    "company": "Crisfield Seafood Restaurant",
+    "currency": "$",
+    "date": "12/29/2017",
+    "total": "42. 74"
+}

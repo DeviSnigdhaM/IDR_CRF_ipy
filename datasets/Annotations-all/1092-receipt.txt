@@ -1,0 +1,8 @@
+{
+    "OCR": "Kaiseki Japanese Cuisine 7 West Merrick Rd, Valley Steam, NY 11580 Tel (516)561-3556 Dine In 07/28/18 03:42 PM A3 20 Server: MANDY Guest 2 Sushi Dinner 18.95 w. Miso Soup Lady Gaga 13.95 Ginger Ale 2.00 Fried Cheese Cake 4.95 Subtotal: 39.85 Tax: 3.45 Total: 43.30 Recommended Tips: 15%=$5.98 18%=$7.17 20%=$7.97 Thank You",
+    "address": "7 West Merrick Rd, Valley Steam, NY 11580",
+    "company": "Kaiseki Japanese Cuisine",
+    "currency": "",
+    "date": "07/28/18",
+    "total": "43.30"
+}

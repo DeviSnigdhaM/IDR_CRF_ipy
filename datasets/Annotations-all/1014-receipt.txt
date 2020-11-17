@@ -1,0 +1,8 @@
+{
+    "OCR": "Loaded Cafe 15700 Bellflower Blvd Bellflower, CA 90706 135 Nathalie Tb1 34/1 Chk 2763 Feb23' 19 10:23AM Gst 2 Dine In 2 Enchi Omelete 25.98 SHREDDED BEEF 1 Open Food SHREDDED BEEG 3. 19 1 Open Food 1 Hashbrowns Side 3. 19 2.99 1 Hashbrowns Side 1 Coffee Hot 2.99 Diet Coke 2.99 2.99 SUBTOTAL TAX 44 .32 10:51AM TOTAL DUE 4.21 48 . 53 THANK YOU FOR VISITING",
+    "address": "15700 Bellflower Blvd Bellflower, CA 90706",
+    "company": "Loaded Cafe",
+    "currency": "",
+    "date": "Feb23' 19",
+    "total": "48 . 53"
+}

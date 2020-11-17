@@ -1,0 +1,8 @@
+{
+    "OCR": "El Gran Mar de Plata 10325 Hammocks Blud Miami, FL 33176 (305) 386-6638 Server : Kayra Station: 10 Order #: 8262 Dine In Bar Tab: Bar Tab 1 Miller Lite > > SETTLED < 5.00 SUB TOTAL: Sales Tax: 5.00 0.35 TOTAL: $5.35 Cash Tendered: 5.35 Balance: 50.00 >> Ticket #: 35 < Created: 4/20/2017 10:13:17 PM SETTLED: 4/20/2017 10:13:25 PM THANK YOU! Why do I always get Short Changed. I give you a$ 10 bil & only getbackbill",
+    "address": "10325 Hammocks Blud Miami, FL 33176",
+    "company": "El Gran Mar de Plata",
+    "currency": "$",
+    "date": "4/20/2017",
+    "total": "5.35"
+}

@@ -1,0 +1,8 @@
+{
+    "OCR": "STANTONO'D 17300 SOUTHCENTER PARKWAY TURMILA, MA 98168 208.575.7454 28120 Jane11 M 161 127/1 Chk 3885 Get 3 Sep30 17 07:38PM 1 CHIC TEND AP 1 RIBS 1/2 ST 1 BRG DELUXE 18.95 14.95 K TIMING 9.95- SUBTOTAL 33.90 TAX 3.39 TOTAL DUE 37 .29 HAPPY HOUR MONDAY TO SATURDAY 3 pm to 6 pm and 9 pm to close SUNDAY HAPPY HOUR ALL DAY Join our EAT DRINK & EARN Club to earn rewards while dining at any Restaurants Unlimited restaurant! Ask your server for details or juin online at: Www.-u-1.com/rewards",
+    "address": "17300 SOUTHCENTER PARKWAY TURMILA, MA 98168 208.575.7454",
+    "company": "STANTONO'D",
+    "currency": "",
+    "date": "Sep30 17",
+    "total": "37 .29"
+}

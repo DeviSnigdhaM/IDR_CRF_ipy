@@ -1,0 +1,8 @@
+{
+    "OCR": "Lan Sheng 209 Paterson Ave. Wallington N. J. 07057 Tel : 973.773.7100 Fax : 973. 773.7101 [ B2 ] Dine In # 1011 Server: Mary 06/13/17 2 Person 08:38 PM - 09:17 P. Spicy Chicken w. Spicy Garli $7.95 c Soy V. Hf- Peking Duck $18.95 Stir Beef Fillet w. Tofu $15.95 Pork w. Spicy Capsicum $12.95 White Rice (S) $1.50 Pork w. Spicy Tofu & Cayen $12.95 ne Chili SubTotal $70.25 Sales Tax $4.90 Total $75.15 Thank You Have A Nice Day",
+    "address": "209 Paterson Ave. Wallington N. J. 07057",
+    "company": "Lan Sheng",
+    "currency": "$",
+    "date": "06/13/17",
+    "total": "75.15"
+}

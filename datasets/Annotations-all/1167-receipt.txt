@@ -1,0 +1,8 @@
+{
+    "OCR": "Thaw Casa Rubio Cafe you 25-17 Astoria Elivd May 21. 2019 Astoria, NY 11102 6:58 PM (929) 328-0030 Ticket: TI FOR HERE Grilled Skirt Steak $28.00 Well done Fountain Sodas $3.00 Subtotal $31.00 Sale Tax $2.75 Total $33.75",
+    "address": "25-17 Astoria Elivd",
+    "company": "Casa Rubio Cafe",
+    "currency": "$",
+    "date": "May 21. 2019",
+    "total": "33.75"
+}

@@ -1,0 +1,9 @@
+{
+    "OCR": "New Asia Buffet 14727.5 Rinaldi St. San Fernando, CA 91340 Tel: (818)898-0880 WeekEnd Dinner Date: ov-15-06-N Time: 5:17PM # 84 Server : 2 Tb# : D4 No. of Guest : 1 NN Weeken Dinner 27 .96 Coke 3. 16 AMOUNT : 31 . 12 TAX(9%) : 2.80 AMERICAN TOTAL : 33.92 EXPRESS agested Tip (10%) 3.39 (15% ) 5.09 (20%) 6.78 THANK YOU VERY MUCH.",
+    "address": "14727.5 Rinaldi St. San Fernando, CA 91340",
+    "company": "New Asia Buffet",
+    "currency": "",
+    "date": "",
+    "total": "33.92",
+    "notes": "Date is shown as ov-15-06-N. This is not an OCR error. It's the same in the image too. Not annotating it to avoid confusion"
+}

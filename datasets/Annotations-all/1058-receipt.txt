@@ -1,0 +1,8 @@
+{
+    "OCR": "Caldera BREWERY & RESTAURANT ASHLAND, OREGON 590 Clover Lane Ashland, OR (541) 482-HOPS Server : Hope 12/28/2017 1/1 7:06 PM Guests: 2 # 20071 Glass Imp Stout Ashland Amber 5.00 Butter Noodles 4. 75 Oatmeal Stout 7, 00 Mahi Mahi TACO 4. 75 15.00 Subtotal 36. 50 Tax 1. 10 Total 37. 60 Balance Due 37. 60 Cheers from Caldera Brewery & Restaurant Please Drive Carefully WE SELL CANS, BOTTLES AND GROWLERS TO GO",
+    "address": "590 Clover Lane Ashland, OR",
+    "company": "Caldera BREWERY & RESTAURANT",
+    "currency": "",
+    "date": "12/28/2017",
+    "total": "37. 60"
+}

@@ -1,0 +1,8 @@
+{
+    "OCR": "Juniper & Ivy 2228 Kettner Blvd San Diego, CA 92101 1045 SAGE D Tb1 71/1 Chk 4530 Gst 4 Oct06' 16 07:08PM Dine In 1 BUCATINI 17.00 1 RAVIOLO 18.00 1 BT TURNBULL NAPA 90.00 1 HALIBUT 38.00 1 YODEL 12.00 1 MILK & HONEY 10.00 1 COFFEE SM 6.00 1 GL ROUND POND SB 1 OCTOPUS 13.00 1 BEEF TARTARE 16.00 1 FINLANDIA (WELL) $MARTINI 12.00 1 HALIBUT 11.00 1 SNAPPER 38.00 28.00 Subtotal Tax 309.00 09: 19PM Total 24.72 333 . 72",
+    "address": "2228 Kettner Blvd San Diego, CA 92101",
+    "company": "Juniper & Ivy",
+    "currency": "",
+    "date": "Oct06' 16",
+    "total": "333 . 72"
+}

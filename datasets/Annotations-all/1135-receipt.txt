@@ -1,0 +1,8 @@
+{
+    "OCR": "E. BALDI 375 North Canon Drive Beverly Hills, CA 90210 TUE JANUARY 30 2018 37 CHECK #278470--1 TABLE #6 1 ICED TEA $4.50 1 ROMBO CARCIOFI FUNGH $48.00 1 SPARKLING WATER LARG $8 . 50 1 BRANZINO GRIGLIATO $40.00 1 CARPACCIO RED SNAPPE $33.00 FOOD $134.00 SUB-TOTAL $134.00 TAX TOTAL : $12.73 $146 . 73 Time: 14:22 2 CUSTOMERS",
+    "address": "375 North Canon Drive Beverly Hills, CA 90210",
+    "company": "E. BALDI",
+    "currency": "$",
+    "date": "JANUARY 30 2018",
+    "total": "146 . 73"
+}

@@ -1,0 +1,8 @@
+{
+    "OCR": "Taco Maria 3313 Hyland Ave. Ste C21 Costa Mesa, CA 92626 714 538 8444 www. tacomaria . com Order# 118888 Server : Jesa R Table: Bar 7 Date: 1/23/18, 12:16 PM Chicken $ 15.00 Pescado $18.00 Arrachera solo $9.50 Subtotal : $42.50 Total Tax: $3.29 Total: $45. 79 Order Balance due : $45.79 ae Suggested Gratuity 18.00% of sale: Tip Total 20.00% of sale: $7. 65 = $53 . 44 22.00% of sale: $8.50 = $54.29 $9.35 = $55 . 14",
+    "address": "3313 Hyland Ave. Ste C21 Costa Mesa, CA 92626",
+    "company": "Taco Maria",
+    "currency": "$",
+    "date": "1/23/18",
+    "total": "45.79"
+}
