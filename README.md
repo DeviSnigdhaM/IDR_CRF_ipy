@@ -5,7 +5,7 @@
 
 Launch the ipython notebook in binder by clicking the below button
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DeviSnigdhaM/IDR_CRF_ipy/devi/binder-dependencies?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DeviSnigdhaM/IDR_CRF_ipy/master?filepath=index.ipynb)
 
 ## To view the read-only notebook
 Just select index.ipynb from the Code files
