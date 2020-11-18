@@ -1,8 +1,0 @@
-{
-    "OCR": "Rihanna's Caribbean Restaurant 12709 BEECHNUT ST STE100 HOUSTON, TX 77072 8328902382 ORDER: 12 Cashier: LeeLee 12-Aug-2018 3:01:40P Curry Chicken 1 Beef Pattie $10.00 $2.25 Subtotal $12.25 Tax $1.01 Total $13.26 Order SVCED",
-    "address": "12709 BEECHNUT ST STE100 HOUSTON, TX 77072",
-    "company": "Rihanna's Caribbean Restaurant",
-    "currency": "$",
-    "date": "12-Aug-2018",
-    "total": "13.26"
-}

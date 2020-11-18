@@ -1,8 +1,0 @@
-{
-    "OCR": "GREEN FIELD 5305 E PACIFIC COAST HWY Long Beach, CA 90804 (562) 597-0906 Server : Francis Station : 3 Order #: 69923 Dine In Table: B11 Guests : 2 1 Coffee 3.00 2 Lunch 45 . 90 1 Coke 3.00 SUB TOTAL : 51 .90 Tax 1: 4.68 TOTAL $56.58 5/26/2016 12:53:10 PM THANK YOU!",
-    "address": "5305 E PACIFIC COAST HWY Long Beach, CA 90804",
-    "company": "GREEN FIELD",
-    "currency": "$",
-    "date": "5/26/2016",
-    "total": "56.58"
-}

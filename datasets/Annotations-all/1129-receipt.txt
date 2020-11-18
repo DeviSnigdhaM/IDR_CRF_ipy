@@ -1,8 +1,0 @@
-{
-    "OCR": "HIRO JAPANESE RESTAURANT 3007 NE 163RD STREET North Miami Beach, FL 33160 (305) 948-3687 Server: HUGO Station: 2 Order #: 209744 Dine In Table: 12 Guests: 2 1 (L) Ton Katsu 8.95 1 (L) Makimono 6.95 SUB TOTAL : 15.90 Tax 1: 1.28 TOTAL : $17 . 18 >> Ticket #: 20 << 2/13/2018 1:09:45 PM THANK YOU!",
-    "address": "3007 NE 163RD STREET North Miami Beach, FL 33160",
-    "company": "IRO JAPANESE RESTAURANT",
-    "currency": "$",
-    "date": "2/13/2018",
-    "total": "17 . 18"
-}

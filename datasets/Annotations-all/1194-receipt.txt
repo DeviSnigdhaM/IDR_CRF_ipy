@@ -1,8 +1,0 @@
-{
-    "OCR": "Bar Rua 32 Clarendon Street Table #520 Trans#: 241805 Serv: Sinon 17/08/2018 07:40:22 PM $Dust:4 Quan Description Cost 2 GLS CARRIG LAGER 1 WINGS SMALL 5.60 I FRESH COD 9.0 1 SHELLFISH POT 18.00 1 FISH CAKES 22 50 7.50 1 PORTION BREAD LARGE 1.50 TOTAL : 65 . 10 Facebook : BAR RUA Twitter : @BARRUADUB REVIEW / TRIPADVISOR <-REPRINTED->",
-    "address": "32 Clarendon Street",
-    "company": "Bar Rua",
-    "currency": "",
-    "date": "17/08/2018",
-    "total": "65 . 10"
-}

@@ -1,8 +1,0 @@
-{
-    "OCR": "Gourdough's Public House 2700 South Lamar Blvd Austin, TX 78704 Phone: (512) 912-9070 3008 BAR PM B Chk 7862 Jan21 17 08:56P Gst 1 1 FREEBIRD 5.50 1 ICE CREAM 2.00 1 LONESTAR 3.50 ORIGINAL TTL 11.00 TAX 0.91 09:38PM TOTAL 11.91 Follow us @gourdoughspub on Facebook or Twitter for the latest and greatest specials!",
-    "address": "2700 South Lamar Blvd Austin, TX 78704 Phone: (512) 912-9070",
-    "company": "Gourdough's Public House",
-    "currency": "",
-    "date": "Jan21 17",
-    "total": "11.91"
-}

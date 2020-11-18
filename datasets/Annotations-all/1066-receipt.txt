@@ -1,9 +1,0 @@
-{
-    "OCR": "RISTORANTE BELLAGIO (CO) TELEFONO 031/951888 TAV. 9 SALA UNICA COPERTI 14/07/2019 16:23 4 COPERTO 2 ACQUA NAT 12.00 8.00 SALMERINO PIASTRA 18.00 1 TRENETTE AL PESTO 13.00 1 SPAGHETTI POM. BASILICO 10.00 1 FETTUCCINE RAGU' 15.00 1 PATATINE FRITTE 6.00 TOTALE 82.00 MANCIA/TIP Prego ritirare il documento fiscale alla cassa",
-    "address": "",
-    "company": "RISTORANTE BELLAGIO",
-    "currency": "",
-    "date": "14/07/2019",
-    "total": "82.00",
-    "notes": "Non english receipt"
-}

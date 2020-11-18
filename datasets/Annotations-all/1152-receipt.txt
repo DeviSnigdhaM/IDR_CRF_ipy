@@ -1,8 +1,0 @@
-{
-    "OCR": "KALOOKI'S b-2 03/14/2015 8:12 PM O cts 5300 Dine in Denise Item Unit Price Chicken Fingers 8.00 8.00 Spicy Shrimp 20.00 20.00 Steamed Fish Lg 25.00 25.00 Bottled Water 2.00 4.00 Subtotal 57.00 Service Charge 10% 5.70 Total $ 62.70 Thank You Kalooki's Bay Road, Blue Hills 01649 Providenciales 6493 323388",
-    "address": "",
-    "company": "KALOOKI'S",
-    "currency": "$",
-    "date": "03/14/2015",
-    "total": "62.70"
-}

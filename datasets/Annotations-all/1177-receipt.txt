@@ -1,8 +1,0 @@
-{
-    "OCR": "El Charro Cafe Ventana 6910 E SUNRISE DR Server: Ana 06/24/2018 Table 24/1 8:00 PM Guests: 2 #30076 Coors Light 5,00 Ice Tea 3.25 Shrimp Fajita 18.95 Stuffed Chicken 17.95 Subtotal 45. 15 Tax 2.75 Total 47.90 Balance Due 47.90 EAT FOR FREE! ! !",
-    "address": "6910 E SUNRISE",
-    "company": "El Charro Cafe Ventana",
-    "currency": "",
-    "date": "06/24/2018",
-    "total": "47.90"
-}

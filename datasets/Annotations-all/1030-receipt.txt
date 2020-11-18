@@ -1,8 +1,0 @@
-{
-    "OCR": "VILLA D'ESTE RESTAURANT 186 Jericho Toke floral park, NY 11001 (516) 354-1355 Server: Jerry Station: 6 Dine In Table: 3 Guests: 2 1 Coffee 3.50 1 Glass House Wine 9.95 1 Jumbo Coctail Shrimp 12.95 1 Escargot Bourguign 10.95 1 Veal Zingarfa 23.95 1 Duckling ala Arancio 25.95 SUB TOTAL: Tax 1: 87.25 7.53 TOTAL: $94.78 > > Ticket #: 7 << 12/8/2017 4:44:05 PM Thank you for dining at Ville D'Este Please come again soon.",
-    "address": "186 Jericho Toke floral park, NY 11001",
-    "company": "VILLA D'ESTE RESTAURANT",
-    "currency": "$",
-    "date": "12/8/2017",
-    "total": "94.78"
-}

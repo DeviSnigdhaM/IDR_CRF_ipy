@@ -1,8 +1,0 @@
-{
-    "OCR": "Finnegan's Way Check 822819 1344 Ocean Drive Miami Beach Florida 33139 Tel. 305-672-7747 08/21/17 8:38 PM Table 15 Cust 1 Waiter 58 IRYNA P 4 SOBE MOJITO'S 40,00 BACARDI LIGHT Taxable: 40.00 Sub-total: 40,00 Sales Tax 7%: Resort Tax 2%: 2.80 Total: 0.80 Voluntary 18% Tip: 43,60 Please feel free to adjust or remove 7.20 the tip amount at your discretion Total 50 . 80",
-    "address": "1344 Ocean Drive Miami Beach Florida 33139 Tel. 305-672-7747",
-    "company": "Finnegan's Way",
-    "currency": "",
-    "date": "08/21/17",
-    "total": "50 . 80"
-}

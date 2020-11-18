@@ -1,8 +1,0 @@
-{
-    "OCR": "600 E Grand Ave Lalo's Mexican at Navy Pier Table Q#1 Trans #: 64142 Serv: Claudia 8/24/2017 5:29 PM # Cust: 1 Quan Descript Cost 1 Bottled Water $2.45 1 Add Pollo Taco 1 Add Carnitas Taco $4.95 1 Sour Cream $4. 95 1 Chihuahua Cheese $1.25 $1.25 Net Total: IL Sales $14.85 MPEA Tax $1.52 Restaurant $0. 15 $0.04 Food: $12.40 TOTAL: $16 . 56 Beverage: $2.45 EMVUS $16.56 n A Robinson Hill Company It's The ExperHience That Counts! Tell us about your visit! www.robinsonhillusa. com/guest-survey",
-    "address": "600 E Grand Ave",
-    "company": "Lalo's Mexican at Navy Pier",
-    "currency": "$",
-    "date": "8/24/2017",
-    "total": "16.56"
-}

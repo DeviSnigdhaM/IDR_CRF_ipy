@@ -1,8 +1,0 @@
-{
-    "OCR": "Amici Conyers 1805 Parker RD Suite G110 1805 Parker RD (678) 890-2005 Server: Nicole Table 52/1 06/10/2018 Guests: 2 1:02 PM 30004 Seat 1 Coke Margherita Calzone 2.29 Side Caesar 11.99 Subtotal 4.99 19.27 Tax 1.35 Total 20.62 Seat 2 * * * * * * * * * * * * * * *: * * * * * * * * * * * * * * * * * * * * * * * * * * * Coke 2.29 Db1 Stack Cheeseburger 8.99 Bacon 0.99 Subtotal 12.27 Tax 0.86 Total 13. 13 Subtotal 31 .54 Tax 2.21 Total 33.75 Balance Due 33. 75 Thank you for dining with us! SUGGESTED GRATUITY :",
-    "address": "1805 Parker RD Suite G110 1805 Parker RD (678) 890-2005",
-    "company": "Amici Conyers",
-    "currency": "06/10/2018",
-    "date": "",
-    "total": "33. 75"
-}

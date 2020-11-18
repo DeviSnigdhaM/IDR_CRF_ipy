@@ -1,8 +1,0 @@
-{
-    "OCR": "KALAVERAS MEXICAN CUISINE & BAR KALAVERAS - BELLFLOWER 16530 BELLFLOWER BLVD BELLFLOWER, CA 90706 5624610599 http://www.kalaveras.com/ ORDER: Bar B11 Cashier: BAR PM 30-Aug-2019 3:24:10P - Classic Michelada $12.00 Classic Michelada $12.00 Don Julio Anejo $15.00 Classic Michelada $12.00 - Balam Madurado $12.00 Subtotal $63.00 Tax $5.99 Total $68.99 Thank you for your visit! 83V4QQC31PPMT Order 83V4QQC31PPMT",
-    "address": "16530 BELLFLOWER BLVD BELLFLOWER, CA 90706",
-    "company": "KALAVERAS MEXICAN CUISINE & BAR KALAVERAS - BELLFLOWER",
-    "currency": "$",
-    "date": "30-Aug-2019",
-    "total": "68.99"
-}

@@ -1,8 +1,0 @@
-{
-    "OCR": "Place Your Card Here CHATPATA RESTAURANT INC 1683 ROUTE 9 CLIFTON PARK, NY 12065 5182801190 Cashier: Kamal 19-Mar-2019 5:28:12P 6.5 Chicken Korma $11.95 10.1 Naan (Plain Naan $1.95 13.1 Kheer $3.95 Subtotal $17.85 Tax $1.25 Total $19.10 Online: https://clover.com/r/KQ23F4T9N8T6T Order KQ23F4T9N8T6T",
-    "address": "1683 ROUTE 9 CLIFTON PARK, NY 1206",
-    "company": "CHATPATA RESTAURANT INC",
-    "currency": "$",
-    "date": "19-Mar-2019",
-    "total": "19.10"
-}

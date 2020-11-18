@@ -1,8 +1,0 @@
-{
-    "OCR": "NEW DELHI INDIAN RESTAURANT #237E, Sisiwath Quay, Phnom Penh, Cambodia Tel: 0969591422 Email: uonlyBlehotmail.com INVOICE Ticket No:1740 Date:24-Nov-16 Table No: 5 Time:9:12 PM ITEMS QTY PRICE TOTAL House Wine White Glass 3.00 3.00 VEGETABLE SHORBA 2.50 2.50 GARLIC NAAN 2.00 2.00 KARI PAKORA 4.50 4.50 ANGKOR BEER WITH MEAL 0.50 0.50 ANGKOR BEER WITH MEAL 1 0.50 0.50 Total: $ 13.00 * Thank you for dining with us! * * We Have Free Home Delivery! *",
-    "address": "#237E, Sisiwath Quay, Phnom Penh, Cambodia Tel: 0969591422",
-    "company": "NEW DELHI INDIAN RESTAURANT",
-    "currency": "$",
-    "date": "24-Nov-16",
-    "total": "13.00"
-}

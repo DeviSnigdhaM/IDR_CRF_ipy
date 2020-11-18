@@ -1,8 +1,0 @@
-{
-    "OCR": "OHANA HAWAIIAN BBQ 4469 SLAUSON AVE Maywood, CA 90270 (323) 771-9888 Server: karla Station: 3 Order #: 65193 Dine In > > SETTLED << 1 1/2 AND 1/2 COMBO 8.45 FRIED SHRIMP SHORT RIB 1 1/2 AND 1/2 COMBO 7.95 BBQ BEEF FRIED SHRIMP 2 FOUNTAIN MEDIUM 3.50 Bar Subtotal : 10.00 Food Subtotal : 19.90 Tax 1: 1.79 AMOUNT DUE : $21.69 Cash Tendered: 22.00 CHANGE : -0.31 > > Ticket #: 94 << Created: 6/1/2013 7:43:46 PM SETTLED: 6/1/2013 7:44: 18 PM THANK YOU!",
-    "address": "4469 SLAUSON AVE Maywood, CA 90270",
-    "company": "OHANA HAWAIIAN BBQ",
-    "currency": "$",
-    "date": "6/1/2013",
-    "total": "21.69"
-}

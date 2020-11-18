@@ -1,8 +1,0 @@
-{
-    "OCR": "Chelokababi 1236 S Wolfe Rd Aug 18 2018 Sunnyvale, CA 94086 6:35 PM (408) 737-1222 Server chelokababi.com Ticket: D2 FOR HERE Koobideh x 7 $115.50 ($16,50 each) Well Done Very well done Nan-O-Sabzi $8.95 18% Gratuity Thanks: ) $22.40 Subtotal $146.85 Sales Tax $13.22 Total $160.07 Merci! Thank you very much!",
-    "address": "1236 S Wolfe Rd",
-    "company": "Chelokababi",
-    "currency": "$",
-    "date": "Aug 18 2018",
-    "total": "160.07"
-}

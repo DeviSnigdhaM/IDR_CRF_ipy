@@ -1,8 +1,0 @@
-{
-    "OCR": "Mexican Restaurant & Bar 25 West San Fernando St. San Jose, CA 95113 (408) 283-9595 Server: Pablo Table 40/1 12/29/2017 1:17 PM Guests: 3 30001 Reprint #: 1 Coffee 3.25 Enmoladas with Meat 14.95 pollo Chicken Tenders 5.95 Flautas Chicken 9.95 Coloradito 15.95 Subtotal 50 .05 Tax 5.46 Total 55.51 Gratuity 18.00% 9.01 Total 64.52 Balance Due 64.52 ! ! Become a friend of us on FACEBOOK to receive news of events & special offers !! ! ! THANK YOU FOR COMING ! !",
-    "address": "25 West San Fernando St. San Jose, CA 95113",
-    "company": "Mexican Restaurant & Bar",
-    "currency": "",
-    "date": "12/29/2017",
-    "total": "64.52"
-}
