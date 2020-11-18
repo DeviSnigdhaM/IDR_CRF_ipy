@@ -1,8 +1,0 @@
-{
-    "OCR": "laSource 19. He Atein Charting 75015 40002 Caisan 2 02-08-2015 NOTE PERRIER COCA-COLA 5.80 +5.60 JUS ORANGE 5.40 *5.60 .5.40 TOTAL EURO H. T TVA 10%, *17 .00 DONT TVA 10% 15.45 TOTAL TTC 10% $1155 -17 00 Tel: 01.48.28.44.81 PRIX NET MERCI DE VOTRE VISITE",
-    "address": "19. He Atein Charting 75015 40002 Caisan",
-    "company": "laSource",
-    "currency": "EURO",
-    "date": "02-08-2015",
-    "total": "17 .00"
-}

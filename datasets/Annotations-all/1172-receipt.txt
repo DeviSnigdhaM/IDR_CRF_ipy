@@ -1,8 +1,0 @@
-{
-    "OCR": "El Valle Mexican Restaurant 305 W. John St. Matthews, NC 28105 (704) 845-1417 Server : GEOVANNY Station: 10 Order #: 403593 Table: 9 Dine In Guests: 1 1 GUACAMOLE DIP 3.99 1 DIET COKE 2 . 15 1 LUNCH FAJITAS 1 TORTILLAS (3) 17.75 1 SOUR CREAM 1.25 1.25 SUB TOTAL : 16.39 Tax 1: 1.36 TOTAL $17.75 >> Ticket #: 7 < 12/2/2017 11:48:28 AM THANK YOU!",
-    "address": "305 W. John St. Matthews, NC 28105 (704) 845-1417",
-    "company": "El Valle Mexican Restaurant",
-    "currency": "$",
-    "date": "12/2/2017",
-    "total": "17.75"
-}

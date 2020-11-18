@@ -1,8 +1,0 @@
-{
-    "OCR": "El Gato Negro 300 Harrison Ave New Orleans, LA 70124 Phone: (504) 488-0107 1128 Daniel P Tb1 90/1 Chk 4650 Gst 1 Aug23' 19 12:07PM *** Memo Check *** Dine In Seat : 1 1 Fajita Vegetable 7.75 1 Taco Shrimp Fresh Catch 3 12.00 *DON'T MAKE* 1 Water 0.00 Food 19.75 Tax 2.01 Total 21.76",
-    "address": "300 Harrison Ave New Orleans, LA 70124",
-    "company": "El Gato Negro",
-    "currency": "",
-    "date": "Aug23' 19",
-    "total": "21.76"
-}

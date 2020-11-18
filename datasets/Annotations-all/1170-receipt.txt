@@ -1,8 +1,0 @@
-{
-    "OCR": "Again. h Buca di Beppo Store#0511 Universal City, CA 91608 818.509.9463 Server : Molly 07/15/2016 Table 53/1 7:57 PM Guests: 3 40020 Order Type: Dining Reason #66 Iced Tea 3.29 There's a Sm Garlic Bread 9.99 eason #23 9oz Buca Chianti (2 @14.00) 28.00 G1 Buca Chianti 10.00 Sm Chop Antipasto Salad 18.99 Lg Supremo Pizza 29.99 We value your opinion. Pele Visit bucafeedback.com to complete a brief survey and enter our weekly with drawing for a chance to win a $100 digital promotional certificate. See bucadibeppo. com/buca-feedback-rules for Official Rules and restrictions. r the u didn't drc 091 257 000 051 115 of school day Song ! Pasta! esh for you! Subtotal 100.26 -i-nar-a... Tax 9.02 too! Total 109.28 ucaaa... say Balance Due 109 .28 day",
-    "address": "Universal City, CA 91608 818.509.9463",
-    "company": "Buca di Beppo",
-    "currency": "",
-    "date": "07/15/2016",
-    "total": "109.28"
-}

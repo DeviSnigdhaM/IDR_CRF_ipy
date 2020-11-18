@@ -1,8 +1,0 @@
-{
-    "OCR": "YUM'S RESTAURANT 12635 Mural Bowie RU Laurel ND 20708 TH (301 776 5002 Walk In 6/24/2018 0-1 19 PM Server Yums 347 Steak Cheese Egg Rolls (2) 4.49 4Wings w/ French Fries 7.20 Mumbo s. 4 Wings w French fries 7.20 Mumbo Set Hot Sauce et Homemade Hail Halt 1.89 Food Subtotal: 20.78 Bev Subtotal: 0.00 Food Tax: 1.25 Bey Tax: 0.00 Total: 22.03 Received: 22 03 Change. 0.00 PAID Cash Thank You",
-    "address": "12635 Mural Bowie RU Laurel ND 20708",
-    "company": "YUM'S RESTAURANT",
-    "currency": "",
-    "date": "6/24/2018",
-    "total": "22.03"
-}

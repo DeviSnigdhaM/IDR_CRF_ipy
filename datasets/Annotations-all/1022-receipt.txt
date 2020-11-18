@@ -1,8 +1,0 @@
-{
-    "OCR": "Moonstar Restaurant 383 Gellert Blvd. , Daly City, CA 94015 (650) 992-2888 PAID REPRINT 1 Tab:332 1P 19:51 #2406 QTY/LB NAME U/P PRICE WEEKDAY DINNER $29.88 29.88 SUBTOTAL: 29.88 15% SERVICE CHARGE : 4.48 Tax (8. 75%) : 3.01 SALES TOTAL: 32.89 TOTAL : 37.37 CASH : 100.00 CHANGE 62 . 63 10/29/2018 19:51 THANK YOU",
-    "address": "383 Gellert Blvd. , Daly City, CA 94015",
-    "company": "Moonstar Restaurant",
-    "currency": "$",
-    "date": "10/29/2018",
-    "total": "37.37"
-}

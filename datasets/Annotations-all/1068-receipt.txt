@@ -1,8 +1,0 @@
-{
-    "OCR": "eugene Cafe Eugene 1175 Solano Avenue Albany CA 94706 510-647-9999 www. cafeeugene com Table: Table 10 Date: 4/10/16, 9:08 AM Pork $17.00 Pancakes $12.00 Side Bacon $4.00 2 Regular $6.00 $3.00 each Subtotal : $39.00 tal Tax: $3.90 al: $42.90",
-    "address": "1175 Solano Avenue Albany CA 94706",
-    "company": "eugene Cafe Eugene",
-    "currency": "$",
-    "date": "4/10/16",
-    "total": "42.90"
-}

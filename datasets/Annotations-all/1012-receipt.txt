@@ -1,8 +1,0 @@
-{
-    "OCR": "#14 HP Pho Ga 8930 Mission Dr. #102 Rosemead, CA 91770 Phone (626) 288-9999 Date: Apr 01 2019 Time : 05: 12PM Server: Admin Bill : 59980 Table : 14 Pho Ga (Small ) 8.00 Pho Ga (Large) 9.00 Goi Cuon 5.25 Subtotal 22.25 TAX 2.11 Total 24.36 S. Service Charge 40% 8.90 Total $33 .26 Suggested Tip : 15% (3.65) 18% (4.38) 20% (4.87) Open Time : Apr 01 2019 04:39PM Printed By : Admin Thank you for Coming !",
-    "address": "8930 Mission Dr. #102 Rosemead, CA 91770",
-    "company": "HP Pho Ga",
-    "currency": "$",
-    "date": "Apr 01 2019",
-    "total": "33 .26"
-}

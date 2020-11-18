@@ -1,8 +1,0 @@
-{
-    "OCR": "Trinity Restaurant 190 Jericho Take Floral Park NY 11001 Tel. (516) 358-5584 Order 217510 02/18/17 10:20 PM Check 101244 Table 15 Cust. 2 Server 21 Kelly Bowe *XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 1 Quesadilla 11. 00 1 Pot Roast 18. 00 1 Fish An Chips 16. 00 1 Side Salad 4. 00 1 Dft Shock top 5.50 2 Dft Guiness 15. 00 Taxable: 69. 50 Sub-total : 69. 50 Tax: 6. 00 Total Due: 75. 50 AMERICAN EXP We Welcome American Express Cards",
-    "address": "190 Jericho Take Floral Park NY 11001",
-    "company": "Trinity Restaurant",
-    "currency": "",
-    "date": "02/18/17",
-    "total": "75. 50"
-}

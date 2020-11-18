@@ -1,8 +1,0 @@
-{
-    "OCR": "BK SOUL FOOD & CATERING 11318 YONKERS AVE YONKERS, NY 14704 914-237-5083 June 23 2019 at 2:33 PM ORDER # 1019 Admin WINGS (5) 12, 50 MAC & CHEESE YAMS SIDE (SM) x3 12.00 YAMS MAC & CHEESE COLLARD GREENS Subtotal 24,50 Tax 2. 17 Discount 0.00 Total 26. 67 0011477215613",
-    "address": "11318 YONKERS AVE YONKERS, NY 14704",
-    "company": "BK SOUL FOOD & CATERING",
-    "currency": "",
-    "date": "June 23 2019",
-    "total": "26. 67"
-}

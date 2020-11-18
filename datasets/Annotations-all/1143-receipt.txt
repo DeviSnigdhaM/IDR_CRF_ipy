@@ -1,8 +1,0 @@
-{
-    "OCR": "Arthurs 237 Washington Hoboken, NJ 07030 (201) 856-5009 1058 Alexandr Chk 1844 TAB/62 Gst 3 Oct01'17 01:44PM Bar 1 Arthur's Burger *ChsBleu 13.95 1 \"Our\" Burger **Avocado 15.95 1 Loaded Nachos 12.95 1 Pint Boston Lager 6.00 2 Pint Yeungling 12.00 1 Kona Longboard 6.00 1 Quesadilla 13.95 food liquor 56.80 24.00 Tax 02:28PM Total Due 3.98 84 . 78 20% added to parties 8 or more Thank You for Dining with Us! Private Rooms Available for Your Next Party!",
-    "address": "237 Washington Hoboken, NJ 07030 (201) 856-5009",
-    "company": "Arthurs",
-    "currency": "",
-    "date": "Oct01'17",
-    "total": "84 . 78"
-}

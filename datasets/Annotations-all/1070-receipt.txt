@@ -1,8 +1,0 @@
-{
-    "OCR": "Mr. M's Hot Wings & Things Inc 886 N. Garfield Ave Montebello, CA 90640 (323) 477-1345 Server: Jose Station: 8 Dine In Table: 1 Guests : 1 1 Ribeye Steak Lunch 10 10.00 > med-rare SUB TOTAL : 10.00 Tax : 0. 95 TOTAL: $10.95 >> Ticket #: 32 << 6/28/2019 2:16:34 PM 10% Gratuity = $1.00 15% Gratuity = $1.50 20% Gratuity = $2.00",
-    "address": "886 N. Garfield Ave Montebello, CA 90640",
-    "company": "Mr. M's Hot Wings & Things Inc",
-    "currency": "$",
-    "date": "6/28/2019",
-    "total": "10.95"
-}

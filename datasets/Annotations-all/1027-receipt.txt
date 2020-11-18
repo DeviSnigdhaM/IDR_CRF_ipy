@@ -1,9 +1,0 @@
-{
-    "OCR": "OAHU, HAWAII Longboards 92-161 Waipahe Place Kapolei, HI 96707 actices. Tipping (808) 679-4700 d, unless otherw wy to acknowled Server : Elijah J 01/11/2019 15-20%. Check : 24016 12:46 PM Table: 44/0 Dine In bokt. fy Item Price Green Salad 8.00 Ranch Wagyu Cheeseburger 19.00 Medium Well 20% Garlic Fries 2.00 0 12.00 ADD RAW ONIONS& BACON PLZ 13.00 Drink of the Day 9.75 Tea 4.00 14.00 15.00 Subtotal $42. 75 16.00 Ohana Discount Breakfast -3.30 17.00 HI HNLKO 4. 712% GET 1.86 18.00 19.00 20.00 Total $41.31 30.00 pout moi 40.00 donner un endus et. a Regi Gratuity 3,00 s compris. lin ge a votre en la Total 44.31 opinu es Wir we",
-    "address": "92-161 Waipahe Place Kapolei, HI 96707",
-    "company": "Longboards",
-    "currency": "$",
-    "date": "01/11/2019",
-    "total": "44.31",
-    "notes": "annotated handwritten total"
-}
