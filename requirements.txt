@@ -1,6 +1,6 @@
 pandas
 sklearn_crfsuite
 pytesseract
-scikit-learn
+scikit-learn<0.24
 spicy
 matplotlib
