@@ -1,6 +1,6 @@
 pandas
 sklearn_crfsuite == 0.3.6
 pytesseract
-scikit-learn == 0.23.2
+scikit-learn == 0.22.1
 spicy
 matplotlib
